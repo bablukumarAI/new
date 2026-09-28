@@ -1,0 +1,4 @@
+name : bablu , class: CS-A, college: ARYA college of engineering and IT
+name : ashmita, class: CS-D, college: ARYA college of engineering
+name : ankit,  class: CS-A, college : ARYA college of engineering 
+name : Ansh, class: CS-A, College: ARYA college of engineering and IT
